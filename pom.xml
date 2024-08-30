@@ -116,7 +116,16 @@
                 <artifactId>gitflow-maven-plugin</artifactId>
                 <version>1.21.0</version>
                 <configuration>
-                    <!-- optional configuration -->
+                    <gitFlowConfig>
+                        <productionBranch>main</productionBranch>
+                        <developmentBranch>dev</developmentBranch>
+                        <featureBranchPrefix>feature/</featureBranchPrefix>
+                        <releaseBranchPrefix>release/</releaseBranchPrefix>
+                        <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
+                        <supportBranchPrefix>support/</supportBranchPrefix>
+                        <versionTagPrefix></versionTagPrefix>
+                        <origin>origin</origin>
+                    </gitFlowConfig>
                 </configuration>
             </plugin>
         </plugins>
