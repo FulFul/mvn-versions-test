@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Siema HENIU!");
         System.out.println("Siema HENIU!");
         System.out.println("Siema HENIU!");
+        System.out.println("Siema HENIU!");
     }
 }
