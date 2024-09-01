@@ -127,7 +127,6 @@
                 <artifactId>gitflow-maven-plugin</artifactId>
                 <version>1.21.0</version>
                 <configuration>
-                    <version.release.pattern>${project.version}-RELEASE</version.release.pattern>
                     <verbose>true</verbose>
                     <gitFlowConfig>
                         <productionBranch>main</productionBranch>
