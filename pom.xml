@@ -137,7 +137,6 @@
                         <supportBranchPrefix>support/</supportBranchPrefix>
                         <versionTagPrefix></versionTagPrefix>
                         <origin>origin</origin>
-                        <versionTagSuffix>-RELEASE</versionTagSuffix>
                     </gitFlowConfig>
                 </configuration>
             </plugin>
