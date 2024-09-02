@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>mvn-versions-test</artifactId>
-    <version>4.1.2</version>
+    <version>5.1.2</version>
     <packaging>jar</packaging>
 
     <name>mvn-versions-test</name>
