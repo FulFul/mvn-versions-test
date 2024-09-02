@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Siema HENIU! hotfix w drodze");
         System.out.println("Siema HENIU! hotfix w drodze");
         System.out.println("Siema HENIU! hotfix w drodze");
-        System.out.println("Siema HENIU! hotfix w drodze");
+        System.out.println("Siema HENIU! hotfix w drodze - x555");
     }
 }
