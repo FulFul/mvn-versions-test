@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Ziobry");
         System.out.println("Ziobry");
         System.out.println("Ziobry");
+        System.out.println("Ziobry");
     }
 }
