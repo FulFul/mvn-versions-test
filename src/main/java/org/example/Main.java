@@ -30,5 +30,6 @@ public class Main {
         System.out.println("Dobry");
         System.out.println("Dobry");
         System.out.println("Dobry");
+        System.out.println("Dobry");
     }
 }
